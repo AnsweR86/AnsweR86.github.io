@@ -2,3 +2,9 @@
     background-image:url("fancy-cushion.png")
     
 }
+
+.nav{
+    border-radius: 5px;
+   
+    background-image: linear-gradient(to right);
+}
